@@ -3,7 +3,7 @@ const projects = [
   {
     id: '1',
     clientId: '1',
-    name: 'MGK Website',
+    name: 'MGK Fan App',
     description:
       'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.',
     status: 'In Progress',
@@ -11,7 +11,7 @@ const projects = [
   {
     id: '2',
     clientId: '2',
-    name: 'Urban Exploration App',
+    name: 'Urban Exploration Website',
     description:
       'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.',
     status: 'In Progress',
@@ -19,7 +19,7 @@ const projects = [
   {
     id: '3',
     clientId: '3',
-    name: 'Rap Label Project',
+    name: 'Shady Records Project',
     description:
       'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.',
     status: 'In Progress',
