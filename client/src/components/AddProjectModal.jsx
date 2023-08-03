@@ -22,7 +22,7 @@ export default function AddProjectModal() {
     },
   })
 
-  // Get Clients for select
+  // Get Clients for selectbox
   const { loading, error, data } = useQuery(GET_CLIENTS)
 
   const onSubmit = (e) => {
