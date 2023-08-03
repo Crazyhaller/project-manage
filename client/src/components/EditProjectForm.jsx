@@ -32,6 +32,7 @@ export default function EditProjectForm({ project }) {
     }
 
     updateProject(name, description, status)
+    alert('Project updated successfully')
   }
 
   return (
@@ -71,7 +72,7 @@ export default function EditProjectForm({ project }) {
           </select>
         </div>
 
-        <button type="submit" className="btn btn-primary">
+        <button type="submit" className="btn btn-success">
           Submit
         </button>
       </form>
